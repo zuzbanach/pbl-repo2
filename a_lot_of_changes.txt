@@ -2,3 +2,4 @@ Wersja 2 - Druga zmiana - wersja 30.10.2026
 Wersja 3 - Trzecia zmiana - wersja 30.10.2026, 16:16
 Wersja 4 - Czwarta zmiana - wersja 30.10.2026, 16:17
 Wersja 5 - Piąta zmiana - wersja 30.10.2026, 16:18
+test
